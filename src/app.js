@@ -27,4 +27,4 @@ const server = app.listen(PORT,  () =>
 
 module.exports = server;
 
-export default App
+export default app
