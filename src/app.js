@@ -25,6 +25,6 @@ const server = app.listen(PORT,  () =>
   console.log(`Listening on port ${PORT}... `)
 );
 
-module.exports = server;
+// module.exports = server;
 
-export default app
+module.exports = app;
