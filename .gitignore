@@ -35,3 +35,5 @@ functions/firebase-debug.log
 # Firebase emulators
 firebase_emulators/
 .firestore/
+
+.vercel
